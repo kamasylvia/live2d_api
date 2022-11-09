@@ -7,14 +7,13 @@
       "HyperdimensionNeptunia/noireswim"
     ],
     [
-      "HyperdimensionNeptunia/blanc_classic",
-      "HyperdimensionNeptunia/blanc_normal",
-      "HyperdimensionNeptunia/blanc_swimwear"
-    ],
-    [
       "HyperdimensionNeptunia/vert_classic",
       "HyperdimensionNeptunia/vert_normal",
       "HyperdimensionNeptunia/vert_swimwear"
+    ],
+    [
+      "HyperdimensionNeptunia/nepgear_extra",
+      "HyperdimensionNeptunia/nepgearswim"
     ]
   ],
   "messages": [
