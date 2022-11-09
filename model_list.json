@@ -1,19 +1,19 @@
 {
   "models": [
     [
+      "HyperdimensionNeptunia/vert_swimwear",
+      "HyperdimensionNeptunia/vert_classic",
+      "HyperdimensionNeptunia/vert_normal"
+    ],
+    [
+      "HyperdimensionNeptunia/noireswim",
       "HyperdimensionNeptunia/noir_classic",
       "HyperdimensionNeptunia/noir",
-      "HyperdimensionNeptunia/noir_santa",
-      "HyperdimensionNeptunia/noireswim"
+      "HyperdimensionNeptunia/noir_santa"
     ],
     [
-      "HyperdimensionNeptunia/vert_classic",
-      "HyperdimensionNeptunia/vert_normal",
-      "HyperdimensionNeptunia/vert_swimwear"
-    ],
-    [
-      "HyperdimensionNeptunia/nepgear_extra",
-      "HyperdimensionNeptunia/nepgearswim"
+      "HyperdimensionNeptunia/nepgearswim",
+      "HyperdimensionNeptunia/nepgear_extra"
     ]
   ],
   "messages": [
