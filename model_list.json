@@ -1,20 +1,18 @@
 {
   "models": [
     [
+      "HyperdimensionNeptunia/nepgearswim",
+      "HyperdimensionNeptunia/nepgear_extra"
+    ]
+    [
       "HyperdimensionNeptunia/vert_swimwear",
-      "HyperdimensionNeptunia/vert_classic",
       "HyperdimensionNeptunia/vert_normal"
     ],
     [
       "HyperdimensionNeptunia/noireswim",
-      "HyperdimensionNeptunia/noir_classic",
       "HyperdimensionNeptunia/noir",
       "HyperdimensionNeptunia/noir_santa"
     ],
-    [
-      "HyperdimensionNeptunia/nepgearswim",
-      "HyperdimensionNeptunia/nepgear_extra"
-    ]
   ],
   "messages": [
     "Nep! Nep! 超次元游戏：海王星 系列"
