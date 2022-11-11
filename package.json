@@ -1,5 +1,5 @@
 {
-  "name": "akilar-live2dapi",
+  "name": "@kamasylvia/live2d-api",
   "version": "1.0.6",
   "description": "看板娘模型资源文件",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "api",
     "assets"
   ],
-  "author": "akilarlxh",
+  "author": "kamasylvia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Akilarlxh/live2d_api/issues"
