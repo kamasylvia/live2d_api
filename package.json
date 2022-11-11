@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akilarlxh/live2d_api.git"
+    "url": "git+https://github.com/kamasylvia/live2d_api.git"
   },
   "keywords": [
     "live2d",
@@ -19,7 +19,7 @@
   "author": "kamasylvia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Akilarlxh/live2d_api/issues"
+    "url": "https://github.com/kamasylvia/live2d_api/issues"
   },
-  "homepage": "https://kamasylvia.visualstudio.com/Kamasylvia/_git/live2d_api"
+  "homepage": "https://github.com/kamasylvia/live2d_api.git"
 }
