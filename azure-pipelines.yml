@@ -21,9 +21,3 @@ steps:
     sourceGitRepositoryUri: '$(Build.Repository.Uri)'
     destinationGitRepositoryUri: 'https://github.com/kamasylvia/live2d_api.git'
     destinationGitRepositoryPersonalAccessToken: '$(PERSONAL_ACCESS_TOKEN)'
-
-- task: Npm@1
-  inputs:
-    command: 'custom'
-    customCommand: 'publish --access=public'
-    customEndpoint: 'NpmConnection'
