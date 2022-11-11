@@ -16,11 +16,11 @@ steps:
     git config --global user.name "$(USERNAME)"
   displayName: 'Set git configs.'
 
-- task: mirror-git-repository-vsts-task@1
-  inputs:
-    sourceGitRepositoryUri: '$(Build.Repository.Uri)'
-    destinationGitRepositoryUri: 'https://github.com/kamasylvia/live2d_api.git'
-    destinationGitRepositoryPersonalAccessToken: '$(PERSONAL_ACCESS_TOKEN)'
+# - task: mirror-git-repository-vsts-task@1
+#   inputs:
+#     sourceGitRepositoryUri: '$(Build.Repository.Uri)'
+#     destinationGitRepositoryUri: 'https://github.com/kamasylvia/live2d_api.git'
+#     destinationGitRepositoryPersonalAccessToken: '$(PERSONAL_ACCESS_TOKEN)'
 
 - task: Npm@1
   inputs:
