@@ -28,5 +28,6 @@ steps:
 
 - task: Npm@1
   inputs:
-    command: 'publish'
-    publishEndpoint: 'NpmConnection'
+    command: 'custom'
+    customCommand: 'publish --access=public'
+    customEndpoint: 'NpmConnection'
